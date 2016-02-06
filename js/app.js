@@ -479,7 +479,7 @@ jQuery(document)
 							freeScroll: true,
 							autoPlay: 1800,
 							imagesLoaded: true,
-                            lazyLoad:4,
+                            lazyLoad:3,
 							pageDots: false,
 						});
 				}, 700);

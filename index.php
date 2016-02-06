@@ -215,7 +215,7 @@
 		<div class="main-gallery">
 			{{#each data}}
 			<div class="gallery-cell">
-				<img src={{this.imgSrc}} alt="" />
+				<img src="" data-flickity-lazyload={{this.imgSrc}} alt={{this.title}} />
 				<span>{{this.title}}</span>
 			</div>
 			{{/each}}

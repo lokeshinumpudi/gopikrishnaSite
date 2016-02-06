@@ -10,7 +10,7 @@
 		{{/each}}</script><script id=carousalImages-template type=text/x-handlebars-template><div class="main-gallery">
 			{{#each data}}
 			<div class="gallery-cell">
-				<img src={{this.imgSrc}} alt="" />
+				<img src="images/bg.jpg" data-flickity-lazyload={{this.imgSrc}} alt={{this.title}} />
 				<span>{{this.title}}</span>
 			</div>
 			{{/each}}

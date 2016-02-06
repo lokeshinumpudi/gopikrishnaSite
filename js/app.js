@@ -191,218 +191,219 @@ jQuery(document)
 
 		var all = {
 			"data": [
-                
-               {
-				imageCategory: "Kitchen",
-				imgSrc: "images/watermarked/IMG-20160205-WA0019.jpg",
-				title: "TV Console",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Kitchen",
-				imgSrc: "images/watermarked-full/a1.jpg",
-				title: "Modular Kitchen",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Kitchen",
-				imgSrc: "images/watermarked/IMG-20160205-WA0000.jpg",
-				title: "Family Living",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Bed",
-				imgSrc: "images/watermarked/IMG-20160205-WA0001.jpg",
-				title: "Bedroom tv unit",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Kitchen",
-				imgSrc: "images/watermarked/IMG-20160205-WA0002.jpg",
-				title: "Sliding wardrobe",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Bed",
-				imgSrc: "images/watermarked/IMG-20160205-WA0003.jpg",
-				title: "Glass ceiling",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Kitchen",
-				imgSrc: "images/watermarked/IMG-20160205-WA0004.jpg",
-				title: "Crockery / Vanity",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Kitchen",
-				imgSrc: "images/watermarked/IMG-20160205-WA0005.jpg",
-				title: "Ceiling",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Bed",
-				imgSrc: "images/watermarked/IMG-20160205-WA0006.jpg",
-				title: "Openable Glass Wardrobe",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "living-rooms",
-				imgSrc: "images/watermarked/IMG-20160205-WA0007.jpg",
-				title: "Fabric bed",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "living-rooms",
-				imgSrc: "images/watermarked/IMG-20160205-WA0009.jpg",
-				title: "Bedroom T.V unit",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "living-rooms",
-				imgSrc: "images/watermarked/IMG-20160205-WA0010.jpg",
-				title: "Doors",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Bed",
-				imgSrc: "images/watermarked/IMG-20160205-WA0017.jpg",
-				title: "Study Unit",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "living-rooms",
-				imgSrc: "images/watermarked/IMG-20160205-WA0018.jpg",
-				title: "Veneer Panelling",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Bed",
-				imgSrc: "images/watermarked/IMG-20160205-WA0020.jpg",
-				title: "Bed backdrop",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "living-rooms",
-				imgSrc: "images/watermarked/IMG-20160205-WA0021.jpg",
-				title: "Modular Kitchen",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Bed",
-				imgSrc: "images/watermarked/IMG-20160205-WA0022.jpg",
-				title: "Sliding Wardrobe / Bed",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Bed",
-				imgSrc: "images/watermarked/IMG-20160205-WA0025.jpg",
-				title: "MOP Dining Table",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Bed",
-				imgSrc: "images/watermarked/Mr-satish,vz.jpg",
-				title: "Home Theater",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "living-rooms",
-				imgSrc: "images/watermarked/pooja.jpg",
-				title: "Pooja room",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Bed",
-				imgSrc: "images/watermarked/pooja1.jpg",
-				title: "Pooja room",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "living-rooms",
-				imgSrc: "images/watermarked/ht.jpg",
-				title: "Home theater",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Bed",
-				imgSrc: "images/watermarked/bedbackdrop-daughters-fortunetowers.jpg",
-				title: "Kids Wall Treatment",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Bedroom",
-				imgSrc: "images/watermarked/bedroom-master-fortunetowers.jpg",
-				title: "Wall Ceiling ",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Ceiling",
-				imgSrc: "images/watermarked/ceiling-daughter-fortunetowers.jpg",
-				title: "Ceiling",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Ceiling",
-				imgSrc: "images/watermarked/ceiling-fortunetowers.jpg",
-				title: "Wooden Ceiling",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Ceiling",
-				imgSrc: "images/watermarked/ceiling-parents-fortunetowers.jpg",
-				title: "False Ceiling",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Bed",
-				imgSrc: "images/watermarked/daughters-bed-fortunetowers.jpg",
-				title: "children's cot",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Dresser",
-				imgSrc: "images/watermarked/dresser-fortunetowers.jpg",
-				title: "Dresser Mirror",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Kitchen",
-				imgSrc: "images/watermarked/modularkitchen-fortunetowers.jpg",
-				title: "Modular Kitchen",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Kitchen",
-				imgSrc: "images/watermarked/modularkitchen-oven-fortunetowers.jpg",
-				title: "Modular Kitchen",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Pooja",
-				imgSrc: "images/watermarked/pooja-fortunetowers.jpg",
-				title: "Pooja",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Bedroom",
-				imgSrc: "images/watermarked/slidingdoor-bedroom-fortunetowers.jpg",
-				title: "Sliding door",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Tv",
-				imgSrc: "images/watermarked/tv-hall-fortunetowers.jpg",
-				title: "Living room TV",
-				text: "fortunetowers"
-			}, {
-				imageCategory: "Tv",
-				imgSrc: "images/watermarked/tvunit-fortunetowers.jpg",
-				title: "Drawing TV",
-				text: "fortunetowers"
-			},, {
-				imageCategory: "Drawingroom",
-				imgSrc: "images/watermarked/IMG-20160207-WA0000.jpg",
-				title: "Openable Warbrobe",
-				text: ""
-			}, {
-				imageCategory: "Drawingroom",
-				imgSrc: "images/watermarked/IMG-20160207-WA0001.jpg",
-				title: "Sliding Wardrobe",
-				text: ""
-			}, {
-				imageCategory: "Drawingroom",
-				imgSrc: "images/watermarked/IMG-20160207-WA0002.jpg",
-				title: "Pooja",
-				text: ""
-			}, {
-				imageCategory: "Drawingroom",
-				imgSrc: "images/watermarked/IMG-20160207-WA0003.jpg",
-				title: "Pooja",
-				text: ""
-			},  {
-				imageCategory: "Kitchen",
-				imgSrc: "images/watermarked/IMG-20160207-WA0004.jpg",
-				title: "Console",
-				text: "fortunetowers"
-			},  {
-				imageCategory: "Kitchen",
-				imgSrc: "images/watermarked/IMG-20160207-WA0006.jpg",
-				title: "Sliding Wardrobe with Loft",
-				text: "fortunetowers"
-			},  {
-				imageCategory: "Kitchen",
-				imgSrc: "images/watermarked/IMG-20160207-WA0007.jpg",
-				title: "Openable Warbrobe",
-				text: "fortunetowers"
-			}],
+
+				{
+					imageCategory: "Kitchen",
+					imgSrc: "images/watermarked/IMG-20160205-WA0019.jpg",
+					title: "TV Console",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Kitchen",
+					imgSrc: "images/watermarked-full/a1.jpg",
+					title: "Modular Kitchen",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Kitchen",
+					imgSrc: "images/watermarked/IMG-20160205-WA0000.jpg",
+					title: "Family Living",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Bed",
+					imgSrc: "images/watermarked/IMG-20160205-WA0001.jpg",
+					title: "Bedroom tv unit",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Kitchen",
+					imgSrc: "images/watermarked/IMG-20160205-WA0002.jpg",
+					title: "Sliding wardrobe",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Bed",
+					imgSrc: "images/watermarked/IMG-20160205-WA0003.jpg",
+					title: "Glass ceiling",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Kitchen",
+					imgSrc: "images/watermarked/IMG-20160205-WA0004.jpg",
+					title: "Crockery / Vanity",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Kitchen",
+					imgSrc: "images/watermarked/IMG-20160205-WA0005.jpg",
+					title: "Ceiling",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Bed",
+					imgSrc: "images/watermarked/IMG-20160205-WA0006.jpg",
+					title: "Openable Glass Wardrobe",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "living-rooms",
+					imgSrc: "images/watermarked/IMG-20160205-WA0007.jpg",
+					title: "Fabric bed",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "living-rooms",
+					imgSrc: "images/watermarked/IMG-20160205-WA0009.jpg",
+					title: "Bedroom T.V unit",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "living-rooms",
+					imgSrc: "images/watermarked/IMG-20160205-WA0010.jpg",
+					title: "Doors",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Bed",
+					imgSrc: "images/watermarked/IMG-20160205-WA0017.jpg",
+					title: "Study Unit",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "living-rooms",
+					imgSrc: "images/watermarked/IMG-20160205-WA0018.jpg",
+					title: "Veneer Panelling",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Bed",
+					imgSrc: "images/watermarked/IMG-20160205-WA0020.jpg",
+					title: "Modular Kitchen",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "living-rooms",
+					imgSrc: "images/watermarked/IMG-20160205-WA0021.jpg",
+					title: "Bed / Sliding wardrobe",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Bed",
+					imgSrc: "images/watermarked/IMG-20160205-WA0022.jpg",
+					title: "Openable Glass Wardrobe",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Bed",
+					imgSrc: "images/watermarked/IMG-20160205-WA0025.jpg",
+					title: "Modular Kitchen",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Bed",
+					imgSrc: "images/watermarked/Mr-satish,vz.jpg",
+					title: "Home Theater",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "living-rooms",
+					imgSrc: "images/watermarked/pooja.jpg",
+					title: "Pooja room",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Bed",
+					imgSrc: "images/watermarked/pooja1.jpg",
+					title: "Pooja room",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "living-rooms",
+					imgSrc: "images/watermarked/ht.jpg",
+					title: "Home theater",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Bed",
+					imgSrc: "images/watermarked/bedbackdrop-daughters-fortunetowers.jpg",
+					title: "Kids Wall Treatment",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Bedroom",
+					imgSrc: "images/watermarked/bedroom-master-fortunetowers.jpg",
+					title: "Wall Ceiling ",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Ceiling",
+					imgSrc: "images/watermarked/ceiling-daughter-fortunetowers.jpg",
+					title: "Ceiling",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Ceiling",
+					imgSrc: "images/watermarked/ceiling-fortunetowers.jpg",
+					title: "Wooden Ceiling",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Ceiling",
+					imgSrc: "images/watermarked/ceiling-parents-fortunetowers.jpg",
+					title: "False Ceiling",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Bed",
+					imgSrc: "images/watermarked/daughters-bed-fortunetowers.jpg",
+					title: "children's cot",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Dresser",
+					imgSrc: "images/watermarked/dresser-fortunetowers.jpg",
+					title: "Dresser Mirror",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Kitchen",
+					imgSrc: "images/watermarked/modularkitchen-fortunetowers.jpg",
+					title: "Modular Kitchen",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Kitchen",
+					imgSrc: "images/watermarked/modularkitchen-oven-fortunetowers.jpg",
+					title: "Modular Kitchen",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Pooja",
+					imgSrc: "images/watermarked/pooja-fortunetowers.jpg",
+					title: "Pooja",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Bedroom",
+					imgSrc: "images/watermarked/slidingdoor-bedroom-fortunetowers.jpg",
+					title: "Sliding door",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Tv",
+					imgSrc: "images/watermarked/tv-hall-fortunetowers.jpg",
+					title: "Living room TV",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Tv",
+					imgSrc: "images/watermarked/tvunit-fortunetowers.jpg",
+					title: "Drawing TV",
+					text: "fortunetowers"
+				}, , {
+					imageCategory: "Drawingroom",
+					imgSrc: "images/watermarked/IMG-20160207-WA0000.jpg",
+					title: "Openable Warbrobe",
+					text: ""
+				}, {
+					imageCategory: "Drawingroom",
+					imgSrc: "images/watermarked/IMG-20160207-WA0001.jpg",
+					title: "Sliding Wardrobe",
+					text: ""
+				}, {
+					imageCategory: "Drawingroom",
+					imgSrc: "images/watermarked/IMG-20160207-WA0002.jpg",
+					title: "Pooja",
+					text: ""
+				}, {
+					imageCategory: "Drawingroom",
+					imgSrc: "images/watermarked/IMG-20160207-WA0003.jpg",
+					title: "Pooja",
+					text: ""
+				}, {
+					imageCategory: "Kitchen",
+					imgSrc: "images/watermarked/IMG-20160207-WA0004.jpg",
+					title: "Console",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Kitchen",
+					imgSrc: "images/watermarked/IMG-20160207-WA0006.jpg",
+					title: "Sliding Wardrobe with Loft",
+					text: "fortunetowers"
+				}, {
+					imageCategory: "Kitchen",
+					imgSrc: "images/watermarked/IMG-20160207-WA0007.jpg",
+					title: "Openable Warbrobe",
+					text: "fortunetowers"
+				}
+			],
 			all: [{
 				imageCategory: "Drawingroom",
 				imgSrc: "images/watermarked/drawingrooIMG-20160207-WA0003.jpg",
@@ -423,7 +424,7 @@ jQuery(document)
 				imgSrc: "images/watermarked/drawingroom-partitions.jpg",
 				title: "Tv",
 				text: ""
-			},  {
+			}, {
 				imageCategory: "Kitchen",
 				imgSrc: "images/watermarked-full/IMG-20160205-WA0019.jpg",
 				title: "Modular Kitchen",
@@ -491,7 +492,7 @@ jQuery(document)
 
 
 		var carousalhtml = carousalTemplate(all);
-		
+
 
 		$plist.append(carousalhtml);
 
@@ -506,7 +507,7 @@ jQuery(document)
 							freeScroll: true,
 							autoPlay: 1800,
 							imagesLoaded: true,
-                            lazyLoad:3,
+							lazyLoad: 3,
 							pageDots: false,
 						});
 				}, 700);

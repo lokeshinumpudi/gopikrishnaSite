@@ -190,10 +190,17 @@ jQuery(document)
 		//initial data for our carousals
 
 		var all = {
-			"data": [{
+			"data": [
+                
+               {
+				imageCategory: "Kitchen",
+				imgSrc: "images/watermarked/IMG-20160205-WA0019.jpg",
+				title: "TV Console",
+				text: "fortunetowers"
+			}, {
 				imageCategory: "Kitchen",
 				imgSrc: "images/watermarked-full/a1.jpg",
-				title: "Kitchen",
+				title: "Modular Kitchen",
 				text: "fortunetowers"
 			}, {
 				imageCategory: "Kitchen",
@@ -276,14 +283,9 @@ jQuery(document)
 				title: "MOP Dining Table",
 				text: "fortunetowers"
 			}, {
-				imageCategory: "living-rooms",
-				imgSrc: "images/watermarked/IMG-20160205-WA0026.jpg",
-				title: "Modular Kitchen",
-				text: "fortunetowers"
-			}, {
 				imageCategory: "Bed",
 				imgSrc: "images/watermarked/Mr-satish,vz.jpg",
-				title: "T.V Unit",
+				title: "Home Theater",
 				text: "fortunetowers"
 			}, {
 				imageCategory: "living-rooms",
@@ -365,10 +367,45 @@ jQuery(document)
 				imgSrc: "images/watermarked/tvunit-fortunetowers.jpg",
 				title: "Drawing TV",
 				text: "fortunetowers"
+			},, {
+				imageCategory: "Drawingroom",
+				imgSrc: "images/watermarked/IMG-20160207-WA0000.jpg",
+				title: "Openable Warbrobe",
+				text: ""
+			}, {
+				imageCategory: "Drawingroom",
+				imgSrc: "images/watermarked/IMG-20160207-WA0001.jpg",
+				title: "Sliding Wardrobe",
+				text: ""
+			}, {
+				imageCategory: "Drawingroom",
+				imgSrc: "images/watermarked/IMG-20160207-WA0002.jpg",
+				title: "Pooja",
+				text: ""
+			}, {
+				imageCategory: "Drawingroom",
+				imgSrc: "images/watermarked/IMG-20160207-WA0003.jpg",
+				title: "Pooja",
+				text: ""
+			},  {
+				imageCategory: "Kitchen",
+				imgSrc: "images/watermarked/IMG-20160207-WA0004.jpg",
+				title: "Console",
+				text: "fortunetowers"
+			},  {
+				imageCategory: "Kitchen",
+				imgSrc: "images/watermarked/IMG-20160207-WA0006.jpg",
+				title: "Sliding Wardrobe with Loft",
+				text: "fortunetowers"
+			},  {
+				imageCategory: "Kitchen",
+				imgSrc: "images/watermarked/IMG-20160207-WA0007.jpg",
+				title: "Openable Warbrobe",
+				text: "fortunetowers"
 			}],
 			all: [{
 				imageCategory: "Drawingroom",
-				imgSrc: "images/watermarked/drawingroom-partitions.jpg",
+				imgSrc: "images/watermarked/drawingrooIMG-20160207-WA0003.jpg",
 				title: "Tv",
 				text: ""
 			}, {
@@ -386,21 +423,11 @@ jQuery(document)
 				imgSrc: "images/watermarked/drawingroom-partitions.jpg",
 				title: "Tv",
 				text: ""
-			}, {
-				imageCategory: "Drawingroom",
-				imgSrc: "images/watermarked/drawingroom-partitions.jpg",
-				title: "Tv",
-				text: ""
-			}, {
-				imageCategory: "Drawingroom",
-				imgSrc: "images/watermarked/drawingroom-partitions.jpg",
-				title: "Tv",
-				text: ""
-			}, {
-				imageCategory: "Drawingroom",
-				imgSrc: "images/watermarked/drawingroom-partitions.jpg",
-				title: "Tv",
-				text: ""
+			},  {
+				imageCategory: "Kitchen",
+				imgSrc: "images/watermarked-full/IMG-20160205-WA0019.jpg",
+				title: "Modular Kitchen",
+				text: "fortunetowers"
 			}]
 
 		}; //all

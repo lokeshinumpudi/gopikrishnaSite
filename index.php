@@ -2,17 +2,22 @@
 <html dir=ltr lang=en-US xmlns=http://www.w3.org/1999/xhtml>
 
 <head>
-	<title>Gopi krishna</title>
+	<title>Gopi krishna,Project Management Consultant</title>
 	<meta http-equiv=content-type content="text/html; charset=utf-8">
 	<meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
 	<meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1">
+
+	<meta name="description" content="I am a project management consultant from Hyderabad who looks after design and execution of Interiors ( Residential ,Office ,Hospitals...).We are a one stop solution for all your needs be it False ceiling ,electricals ,kitchens ,wardrobes ,furniture,Home theater and the list goes on">
+	<meta name="description" content="Previous role was  General Manager at (Elevate-khazanagroup)">
+	<meta name="description" content="Currently executing Interior projects in  My home Abhra , Lodha , Aparna , Lanco Hills , Vijayawada & Visakhapatnam">
+	<meta name="description" content=" Some of my recent Interior Projects are from My Home Abhra,Lanco Hills,Lodha,Aparna,Casarouge,Vesella,legend chimes,and many more">
 	<link rel=stylesheet href=styles/bundle.min.css media=screen title=styles charset=utf-8>
-    
-    <!--<link rel="stylesheet" href="styles/reset.css">
+
+	<!--<link rel="stylesheet" href="styles/reset.css">
     <link rel="stylesheet" href="styles/flickity.css">-->
-    <!--<link rel="stylesheet" href="styles/styles.min.css">-->
-	
-	
+	<!--<link rel="stylesheet" href="styles/styles.min.css">-->
+
+
 	<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
 	<body>
@@ -32,7 +37,7 @@
 						</div>
 						<h1>GOPI KRISHNA</h1>
 						<h3>Project Management Consultant</h3>
-						<p><strong>I am a project management consultant who looks after design and execution of Interiors ( Residential ,Office ,Hospitals...) .</strong></p>
+						<p><strong>I am a project management consultant from Hyderabad who looks after design and execution of Interiors ( Residential ,Office ,Hospitals...) .</strong></p>
 						<p><strong>We are a one stop solution for all your needs be it False ceiling ,electricals ,kitchens ,wardrobes ,furniture,Home theater and the list goes on</strong></p>
 					</div>
 					<ul class=personal-info>
@@ -153,8 +158,8 @@
 				{{/each}}
 			</div>
 		</script>
-        
-        <script type=text/javascript src=lib/bundle.js></script>
-	<script src=js/handlebars.js charset=utf-8></script>
-	<script src=lib/flickity.js charset=utf-8></script>
-    <script type=text/javascript src=js/app.js></script>
+
+		<script type=text/javascript src=lib/bundle.js></script>
+		<script src=js/handlebars.js charset=utf-8></script>
+		<script src=lib/flickity.js charset=utf-8></script>
+		<script type=text/javascript src=js/app.js></script>
